@@ -5,7 +5,6 @@
 
 <section class="hero" id="top" aria-labelledby="hero-title">
 	<div class="hero-copy">
-		<p class="eyebrow">Secure frontend systems / SvelteKit portfolio / 2026</p>
 		<h1 id="hero-title">{profile.name}</h1>
 		<p class="title">{profile.title} for product teams building serious web software.</p>
 		<p class="intro">{profile.introduction}</p>

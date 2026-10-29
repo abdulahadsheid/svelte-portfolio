@@ -32,7 +32,7 @@ export const profile = {
 	heroSocials: [
 		{
 			label: 'GitHub',
-			url: 'https://github.com/codespacecadet-intern'
+			url: 'https://github.com/abdulahadsheid'
 		},
 		{
 			label: 'LinkedIn',
